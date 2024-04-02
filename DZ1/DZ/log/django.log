@@ -1,0 +1,42 @@
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\main\views.py", line 8, in index
+    logger.INFO('index page accessed')
+    ^^^^^^^^^^^
+AttributeError: 'Logger' object has no attribute 'INFO'
+"GET / HTTP/1.1" 500 71035
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\main\views.py", line 8, in index
+    logger.INFO('index page accessed')
+    ^^^^^^^^^^^
+AttributeError: 'Logger' object has no attribute 'INFO'
+"GET / HTTP/1.1" 500 71171
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\main\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\main\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\main\views.py changed, reloading.
+Watching for file changes with StatReloader
+index page accessed
+"GET / HTTP/1.1" 200 597
+"GET /static/styles/style.css HTTP/1.1" 304 0
+about page accessed
+"GET /about/? HTTP/1.1" 200 623
+index page accessed
+"GET /? HTTP/1.1" 200 597

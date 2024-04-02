@@ -1,0 +1,25 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href= "{% static "styles/style.css" %}">
+    <title>Document</title>
+</head>
+<body>
+    <div class="basemenu" >
+        <form class="btn-base-menu" action="{% url 'main:index' %}">
+            <button class="menu">Главная</button>
+        </form>
+        <form class="btn-base-menu" action="{% url 'main:about' %}">
+            <button class="menu">О нас</button>
+        </form>
+    </div>
+    
+        
+        {% block content %}
+            
+        {% endblock content %}
+</body>
+</html>
