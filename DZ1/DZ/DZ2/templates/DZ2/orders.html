@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+    <h1> Заказы</h1>
+    <form action="{% url 'DZ2:orders' %}" method="POST">
+        {% csrf_token %}
+        <label >Сортировать </label>
+        <input type="radio" name="radio" value="week" {% if form.sort.value == 'week' %}checked{% endif %} > За неделю<Br>
+        <input type="radio" name="radio" value="month"{% if form.sort.value == 'month' %}checked{% endif %}> За месяц<Br>
+        <input type="radio" name="radio" value="year"{% if form.sort.value == 'year' %}checked{% endif %}> За год<Br>
+        <button type="submit">Показать</button>
+        <p>{{form.sort.value}}</p>
+    </form>
+    
+    {% for order in orders %}
+        <p>{{order.id}} | {{order.product.name}} | {{order.product.discription}}
+            | {{order.date_create}}
+        </p>
+        
+    {% endfor %}
+        
+{% endblock content %}

@@ -40,3 +40,2939 @@ about page accessed
 "GET /about/? HTTP/1.1" 200 623
 index page accessed
 "GET /? HTTP/1.1" 200 597
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+index page accessed
+"GET / HTTP/1.1" 200 597
+"GET /static/styles/style.css HTTP/1.1" 200 83
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2595
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+"GET /static/admin/css/base.css HTTP/1.1" 200 21544
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/login.css HTTP/1.1" 200 958
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 5532
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /admin/auth/user/add/ HTTP/1.1" 200 10133
+"GET /static/admin/css/forms.css HTTP/1.1" 200 9090
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8067
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9042
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11800
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /admin/ HTTP/1.1" 200 5532
+"GET /admin/ HTTP/1.1" 200 5532
+"GET /admin/auth/group/ HTTP/1.1" 200 7241
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6811
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/ HTTP/1.1" 200 5532
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 7028
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 8092
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 12190
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+Watching for file changes with StatReloader
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/DZ2/orders/add/ HTTP/1.1" 200 4188
+"POST /admin/login/?next=/admin/DZ2/orders/add/ HTTP/1.1" 200 4348
+Watching for file changes with StatReloader
+"POST /admin/login/?next=/admin/DZ2/orders/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 12190
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 8092
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 8014
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/userss/add/ HTTP/1.1" 200 11324
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/userss/add/ HTTP/1.1" 200 11572
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/userss/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/userss/ HTTP/1.1" 200 9592
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"GET /admin/DZ2/products/add/ HTTP/1.1" 200 11300
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/products/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/products/ HTTP/1.1" 200 9501
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/products/add/ HTTP/1.1" 200 11300
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/products/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/products/ HTTP/1.1" 200 9758
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/products/add/ HTTP/1.1" 200 11300
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/products/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/products/ HTTP/1.1" 200 10018
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 12279
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Internal Server Error: /admin/DZ2/orders/add/
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\options.py", line 1861, in _changeform_view
+    self.log_addition(request, new_object, change_message)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\options.py", line 954, in log_addition
+    object_repr=str(obj),
+                ^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\models.py", line 46, in __str__
+    return self.name
+           ^^^^^^^^^
+AttributeError: 'Orders' object has no attribute 'name'
+"POST /admin/DZ2/orders/add/ HTTP/1.1" 500 134727
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 12279
+Internal Server Error: /admin/DZ2/orders/add/
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\options.py", line 1861, in _changeform_view
+    self.log_addition(request, new_object, change_message)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\options.py", line 954, in log_addition
+    object_repr=str(obj),
+                ^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\models.py", line 46, in __str__
+    return self.name
+           ^^^^^^^^^
+AttributeError: 'Orders' object has no attribute 'name'
+"POST /admin/DZ2/orders/add/ HTTP/1.1" 500 134727
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 12279
+Internal Server Error: /admin/DZ2/orders/add/
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\options.py", line 1861, in _changeform_view
+    self.log_addition(request, new_object, change_message)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\contrib\admin\options.py", line 954, in log_addition
+    object_repr=str(obj),
+                ^^^^^^^^
+TypeError: __str__ returned non-string (type int)
+"POST /admin/DZ2/orders/add/ HTTP/1.1" 500 130824
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 12279
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\models.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /admin/DZ2/orders/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 9463
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 12279
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/orders/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 9713
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 12279
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/orders/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 9961
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 9767
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\main\views.py", line 9, in index
+    return render(request,'main/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'orders' not found. 'orders' is not a valid view function or pattern name.
+"GET / HTTP/1.1" 500 138647
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+index page accessed
+"GET / HTTP/1.1" 200 719
+index page accessed
+"GET / HTTP/1.1" 200 722
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: orders() missing 1 required positional argument: 'user_id'
+"GET /orders? HTTP/1.1" 500 68059
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 7, in orders
+    orders=Orders.object.filter(user_id=user_id)
+           ^^^^^^^^^^^^^
+AttributeError: type object 'Orders' has no attribute 'object'. Did you mean: 'objects'?
+"GET /orders? HTTP/1.1" 500 71675
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=Orders.object.filter(user_id=user_id)
+           ^^^^^^^^^^^^^
+AttributeError: type object 'Orders' has no attribute 'object'. Did you mean: 'objects'?
+"GET /orders? HTTP/1.1" 500 71793
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 11, in orders
+    "categories": categories,
+                  ^^^^^^^^^^
+NameError: name 'categories' is not defined
+"GET /orders? HTTP/1.1" 500 71850
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /orders? HTTP/1.1" 200 1008
+"GET /orders? HTTP/1.1" 200 1001
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /orders? HTTP/1.1" 200 1114
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 7, in orders
+    orders=Orders.objects.filter(user_id=user_id).products_set.all()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'products_set'
+"GET /orders? HTTP/1.1" 500 71767
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 7, in orders
+    orders=Orders.objects.filter(user_id=user_id).Products_set.all()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'products_set'
+"GET /orders? HTTP/1.1" 500 71767
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=Orders.objects.Products_set.all()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Manager' object has no attribute 'Products_set'
+"GET /orders? HTTP/1.1" 500 72054
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=Orders.objects.Products_set.all()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Manager' object has no attribute 'Products_set'
+"GET /orders? HTTP/1.1" 500 72054
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=Orders.products_set.all()
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'Orders' has no attribute 'products_set'. Did you mean: 'product_id'?
+"GET /orders? HTTP/1.1" 500 72038
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=Orders.Products_set.all()
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'Orders' has no attribute 'Products_set'
+"GET /orders? HTTP/1.1" 500 72038
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=Orders.objects.Products_set.all()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'Orders' has no attribute 'objectsProducts_set'
+"GET /orders? HTTP/1.1" 500 72096
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=Orders.objects.Products_set.all()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'Orders' has no attribute 'objectsProducts_set'
+"GET /orders? HTTP/1.1" 500 72096
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=Orders.objects.Products_set.all()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'Orders' has no attribute 'objectsProducts_set'
+"GET /orders? HTTP/1.1" 500 72096
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=Orders.objects.Products_set.all()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Manager' object has no attribute 'Products_set'
+"GET /orders? HTTP/1.1" 500 72054
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=Orders.objects.products_set.all()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Manager' object has no attribute 'products_set'
+"GET /orders? HTTP/1.1" 500 72054
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=orders.products_set.all()
+           ^^^^^^^^^^^^^^^^^^
+NameError: name 'ordersproducts_set' is not defined
+"GET /orders? HTTP/1.1" 500 71918
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=orders.products_set.all()
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'products_set'
+"GET /orders? HTTP/1.1" 500 72026
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=orders.Products_set.all()
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'Products_set'
+"GET /orders? HTTP/1.1" 500 72026
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=orders.Product_set.all()
+           ^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'Product_set'
+"GET /orders? HTTP/1.1" 500 72018
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=orders.products_set.all()
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'products_set'
+"GET /orders? HTTP/1.1" 500 72026
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=orders.product_set.all()
+           ^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'product_set'
+"GET /orders? HTTP/1.1" 500 72018
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=Orders.objects.get(user_id=user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 652, in get
+    raise self.model.MultipleObjectsReturned(
+DZ2.models.Orders.MultipleObjectsReturned: get() returned more than one Orders -- it returned 3!
+"GET /orders? HTTP/1.1" 500 80977
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 8, in orders
+    orders=Orders.objects.get(user_id=user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 652, in get
+    raise self.model.MultipleObjectsReturned(
+DZ2.models.Orders.MultipleObjectsReturned: get() returned more than one Orders -- it returned 3!
+"GET /orders? HTTP/1.1" 500 80977
+"GET /admin/ HTTP/1.1" 200 9476
+"GET /admin/DZ2/userss/add/ HTTP/1.1" 200 11324
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/userss/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/userss/ HTTP/1.1" 200 9857
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/userss/add/ HTTP/1.1" 200 11324
+- Broken pipe from ('127.0.0.1', 58740)
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 12319
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/orders/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 10209
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+index page accessed
+"GET / HTTP/1.1" 200 722
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 9, in orders
+    orders=orders.product_set.all()
+           ^^^^^^^^^^^^^^^^^^
+AttributeError: 'Orders' object has no attribute 'product_set'. Did you mean: 'product_id'?
+"GET /orders? HTTP/1.1" 500 71820
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 9, in orders
+    orders=orders.Product_set.all()
+           ^^^^^^^^^^^^^^^^^^
+AttributeError: 'Orders' object has no attribute 'Product_set'. Did you mean: 'product_id'?
+"GET /orders? HTTP/1.1" 500 71957
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 9, in orders
+    orders=orders.Products_set.all()
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Orders' object has no attribute 'Products_set'
+"GET /orders? HTTP/1.1" 500 71965
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 9, in orders
+    orders=orders.products_set.all()
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Orders' object has no attribute 'products_set'. Did you mean: 'product_id'?
+"GET /orders? HTTP/1.1" 500 71965
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 9, in orders
+    orders=orders.products_set.all()
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Orders' object has no attribute 'products_set'. Did you mean: 'product_id'?
+"GET /orders? HTTP/1.1" 500 71965
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 7, in orders
+    orders=Orders.objects.filter(user_id=user_id).product.all()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'product'
+"GET /orders? HTTP/1.1" 500 71809
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 7, in orders
+    orders=Orders.objects.filter(user_id=user_id).select_related("productc.name",product.description)
+                                                                                 ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'function' object has no attribute 'description'
+"GET /orders? HTTP/1.1" 500 72007
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 13, in orders
+    return render(request,'DZ2/orders.html',context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 198, in render
+    len_values = len(values)
+                 ^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 382, in __len__
+    self._fetch_all()
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1549, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 736, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 84, in pre_sql_setup
+    self.setup_query(with_col_aliases=with_col_aliases)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 73, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select(
+                                                            ^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 279, in get_select
+    related_klass_infos = self.get_related_selections(select, select_mask)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1367, in get_related_selections
+    raise FieldError(
+django.core.exceptions.FieldError: Invalid field name(s) given in select_related: 'product.description', 'productc.name'. Choices are: user, product
+"GET /orders? HTTP/1.1" 500 186396
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 13, in orders
+    return render(request,'DZ2/orders.html',context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 198, in render
+    len_values = len(values)
+                 ^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 382, in __len__
+    self._fetch_all()
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1549, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 736, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 84, in pre_sql_setup
+    self.setup_query(with_col_aliases=with_col_aliases)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 73, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select(
+                                                            ^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 279, in get_select
+    related_klass_infos = self.get_related_selections(select, select_mask)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1367, in get_related_selections
+    raise FieldError(
+django.core.exceptions.FieldError: Invalid field name(s) given in select_related: 'product.description', '[roduct]'. Choices are: user, product
+"GET /orders? HTTP/1.1" 500 186214
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /orders? HTTP/1.1" 200 1070
+"GET /orders? HTTP/1.1" 200 1086
+"GET /orders? HTTP/1.1" 200 1086
+"GET /orders? HTTP/1.1" 200 1086
+"GET /orders? HTTP/1.1" 200 1097
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /orders? HTTP/1.1" 200 1185
+"GET /orders? HTTP/1.1" 200 1182
+"GET /orders? HTTP/1.1" 200 1226
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /orders? HTTP/1.1" 200 1312
+Forbidden (CSRF token missing.): /orders
+"POST /orders HTTP/1.1" 403 2505
+Forbidden (CSRF token missing.): /orders
+"POST /orders HTTP/1.1" 403 2505
+"GET /orders? HTTP/1.1" 200 1442
+"POST /orders HTTP/1.1" 200 1442
+"POST /orders HTTP/1.1" 200 1442
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'sort'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 9, in orders
+    sort=request.POST['sort']
+         ~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'sort'
+"POST /orders HTTP/1.1" 500 81161
+about page accessed
+"GET /about/? HTTP/1.1" 200 748
+"GET /orders? HTTP/1.1" 200 1434
+"GET /orders? HTTP/1.1" 200 1434
+"GET /orders? HTTP/1.1" 200 1434
+"GET /orders? HTTP/1.1" 200 1435
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'sort'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 9, in orders
+    sort=request.POST['sort']
+         ~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'sort'
+"POST /orders HTTP/1.1" 500 81366
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1435
+"POST /orders HTTP/1.1" 200 1435
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1435
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1435
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1435
+"POST /orders HTTP/1.1" 200 1435
+"POST /orders HTTP/1.1" 200 1435
+"POST /orders HTTP/1.1" 200 1435
+"POST /orders HTTP/1.1" 200 1435
+"POST /orders HTTP/1.1" 200 1428
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'week'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 9, in orders
+    week=request.POST['week']
+         ~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'week'
+"POST /orders HTTP/1.1" 500 81345
+"POST /orders HTTP/1.1" 200 1428
+"POST /orders HTTP/1.1" 200 1428
+"POST /orders HTTP/1.1" 200 1428
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'week'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 9, in orders
+    week=request.POST['week']
+         ~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'week'
+"POST /orders HTTP/1.1" 500 81345
+"POST /orders HTTP/1.1" 200 1428
+"POST /orders HTTP/1.1" 200 1428
+"POST /orders HTTP/1.1" 200 1430
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'week'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 9, in orders
+    week=request.POST['week']
+         ~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'week'
+"POST /orders HTTP/1.1" 500 81342
+"POST /orders HTTP/1.1" 200 1438
+"POST /orders HTTP/1.1" 200 1438
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'week'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 9, in orders
+    week=request.POST['week']
+         ~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'week'
+"POST /orders HTTP/1.1" 500 81342
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'week'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 9, in orders
+    week=request.POST['week']
+         ~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'week'
+"POST /orders HTTP/1.1" 500 81342
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'week'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 9, in orders
+    week=request.POST['week']
+         ~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'week'
+"POST /orders HTTP/1.1" 500 81342
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+index page accessed
+"GET / HTTP/1.1" 200 722
+"GET /orders? HTTP/1.1" 200 1438
+"POST /orders HTTP/1.1" 200 1438
+"POST /orders HTTP/1.1" 200 1438
+"POST /orders HTTP/1.1" 200 1438
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1438
+"POST /orders HTTP/1.1" 200 1438
+"POST /orders HTTP/1.1" 200 1438
+"POST /orders HTTP/1.1" 200 1438
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\models.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 11, in orders
+    month_ago = today - DT.timedelta(month=1)
+                        ^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'month' is an invalid keyword argument for __new__()
+"POST /orders HTTP/1.1" 500 73030
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 11, in orders
+    month_ago = today - DT.timedelta(month=1)
+                        ^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'month' is an invalid keyword argument for __new__()
+"POST /orders HTTP/1.1" 500 73030
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 11, in orders
+    month_ago = today - DT.timedelta(month=1)
+                        ^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'month' is an invalid keyword argument for __new__()
+"POST /orders HTTP/1.1" 500 73029
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 11, in orders
+    month_ago = today - DT.timedelta(month=1)
+                        ^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'month' is an invalid keyword argument for __new__()
+"POST /orders HTTP/1.1" 500 73029
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 11, in orders
+    month_ago = today - DT.timedelta(months=1)
+                        ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'months' is an invalid keyword argument for __new__()
+"POST /orders HTTP/1.1" 500 73038
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 11, in orders
+    month_ago = today - DT.timedelta(months=1)
+                        ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'months' is an invalid keyword argument for __new__()
+"POST /orders HTTP/1.1" 500 73038
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 11, in orders
+    month_ago = today - DT.timedelta(months=1)
+                        ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'months' is an invalid keyword argument for __new__()
+"POST /orders HTTP/1.1" 500 73038
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 13, in orders
+    year_ago = today - DT.timedelta(years=1)
+                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'years' is an invalid keyword argument for __new__()
+"POST /orders HTTP/1.1" 500 73233
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1438
+"POST /orders HTTP/1.1" 200 1438
+"POST /orders HTTP/1.1" 200 1438
+"GET /admin/ HTTP/1.1" 200 10178
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 12319
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 12319
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 12319
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 12319
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Watching for file changes with StatReloader
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/DZ2/orders/add/ HTTP/1.1" 200 4188
+Watching for file changes with StatReloader
+"POST /admin/login/?next=/admin/DZ2/orders/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 12124
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/userss/add/ HTTP/1.1" 200 12118
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/DZ2/userss/add/ HTTP/1.1" 200 12118
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 8014
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 12918
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/userss/add/ HTTP/1.1" 200 12118
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/DZ2/userss/add/ HTTP/1.1" 200 11324
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/userss/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/userss/ HTTP/1.1" 200 9580
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/products/add/ HTTP/1.1" 200 11300
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/products/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/products/ HTTP/1.1" 200 9486
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/products/add/ HTTP/1.1" 200 11300
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/products/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/products/ HTTP/1.1" 200 9748
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/products/add/ HTTP/1.1" 200 11300
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/products/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/products/ HTTP/1.1" 200 10023
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 13069
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/orders/add/ HTTP/1.1" 200 13248
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/calendar-icons.svg HTTP/1.1" 200 1094
+"POST /admin/DZ2/orders/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 9463
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/1/change/ HTTP/1.1" 200 13269
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 13069
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/orders/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 9713
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 13069
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/orders/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 9961
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/add/ HTTP/1.1" 200 13069
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/orders/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 10209
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+index page accessed
+"GET / HTTP/1.1" 200 722
+"GET /orders? HTTP/1.1" 200 1492
+"POST /orders HTTP/1.1" 200 1492
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1492
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 20, in orders
+    orders=Orders.objects.filter(date_create__gte=month_ago).select_related("product")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\lookups.py", line 88, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1525, in get_prep_value
+    return self.to_python(value)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1481, in to_python
+    parsed = parse_date(value)
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\dateparse.py", line 74, in parse_date
+    return datetime.date.fromisoformat(value)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: fromisoformat: argument must be str
+"POST /orders HTTP/1.1" 500 134487
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 20, in orders
+    orders=Orders.objects.filter(date_create__range=(month_ago, today)).select_related("product")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\lookups.py", line 299, in get_prep_lookup
+    rhs_value = self.lhs.output_field.get_prep_value(rhs_value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1525, in get_prep_value
+    return self.to_python(value)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1481, in to_python
+    parsed = parse_date(value)
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\dateparse.py", line 74, in parse_date
+    return datetime.date.fromisoformat(value)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: fromisoformat: argument must be str
+"POST /orders HTTP/1.1" 500 134997
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2763
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 20, in orders
+    orders=Orders.objects.filter(Q(date__gte=month_ago)).select_related("product")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1472, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1495, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1307, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'date' into field. Choices are: date_create, id, price, product, product_id, user, user_id
+"POST /orders HTTP/1.1" 500 130228
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 20, in orders
+    orders=Orders.objects.filter(Q(date_create__gte=month_ago)).select_related("product")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1472, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\lookups.py", line 88, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1525, in get_prep_value
+    return self.to_python(value)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1481, in to_python
+    parsed = parse_date(value)
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\dateparse.py", line 74, in parse_date
+    return datetime.date.fromisoformat(value)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: fromisoformat: argument must be str
+"POST /orders HTTP/1.1" 500 146209
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 20, in orders
+    orders=Orders.objects.filter(Q(date_create__gte=month_ago)).select_related("product")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1472, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\lookups.py", line 88, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1525, in get_prep_value
+    return self.to_python(value)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1491, in to_python
+    raise exceptions.ValidationError(
+django.core.exceptions.ValidationError: ['“3” value has an invalid date format. It must be in YYYY-MM-DD format.']
+"POST /orders HTTP/1.1" 500 143104
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 21, in orders
+    orders=Orders.objects.filter(Q(date_create__gte=month_ago)).select_related("product")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1472, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\lookups.py", line 88, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1525, in get_prep_value
+    return self.to_python(value)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1481, in to_python
+    parsed = parse_date(value)
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\dateparse.py", line 74, in parse_date
+    return datetime.date.fromisoformat(value)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: fromisoformat: argument must be str
+"POST /orders HTTP/1.1" 500 146152
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 21, in orders
+    orders=Orders.objects.filter(Q(date_create__gte=month_ago)).select_related("product")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1472, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\lookups.py", line 88, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1525, in get_prep_value
+    return self.to_python(value)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1481, in to_python
+    parsed = parse_date(value)
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\dateparse.py", line 74, in parse_date
+    return datetime.date.fromisoformat(value)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: fromisoformat: argument must be str
+"POST /orders HTTP/1.1" 500 146152
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1492
+"GET /static/styles/style.css HTTP/1.1" 304 0
+"POST /orders HTTP/1.1" 200 1492
+"POST /orders HTTP/1.1" 200 1492
+"POST /orders HTTP/1.1" 200 1492
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1492
+"POST /orders HTTP/1.1" 200 1492
+"POST /orders HTTP/1.1" 200 1492
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1492
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1492
+"POST /orders HTTP/1.1" 200 1492
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1492
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1492
+"POST /orders HTTP/1.1" 200 1492
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1384
+"POST /orders HTTP/1.1" 200 1384
+"POST /orders HTTP/1.1" 200 1384
+"POST /orders HTTP/1.1" 200 1319
+"POST /orders HTTP/1.1" 200 1384
+"POST /orders HTTP/1.1" 200 1319
+"POST /orders HTTP/1.1" 200 1384
+"POST /orders HTTP/1.1" 200 1319
+"POST /orders HTTP/1.1" 200 1319
+"POST /orders HTTP/1.1" 200 1319
+"POST /orders HTTP/1.1" 200 1319
+"POST /orders HTTP/1.1" 200 1384
+"POST /orders HTTP/1.1" 200 1319
+"POST /orders HTTP/1.1" 200 1319
+"POST /orders HTTP/1.1" 200 1319
+"POST /orders HTTP/1.1" 200 1319
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1319
+"POST /orders HTTP/1.1" 200 1319
+"POST /orders HTTP/1.1" 200 1384
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1319
+"POST /orders HTTP/1.1" 200 1319
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1319
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1438
+"GET /admin/ HTTP/1.1" 200 9812
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /admin/ HTTP/1.1" 200 9812
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 10015
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /admin/DZ2/orders/1/change/ HTTP/1.1" 200 13269
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 10015
+"GET /admin/DZ2/orders/2/change/ HTTP/1.1" 200 13269
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 10015
+"GET /admin/DZ2/orders/3/change/ HTTP/1.1" 200 13269
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 10015
+"GET /admin/DZ2/orders/4/change/ HTTP/1.1" 200 13269
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 10015
+"GET /admin/DZ2/orders/1/change/ HTTP/1.1" 200 13269
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 10015
+"GET /admin/DZ2/orders/2/change/ HTTP/1.1" 200 13269
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 10015
+"GET /admin/DZ2/orders/3/change/ HTTP/1.1" 200 13269
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 10015
+"GET /admin/DZ2/orders/4/change/ HTTP/1.1" 200 13269
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/orders/ HTTP/1.1" 200 10015
+"GET /admin/DZ2/orders/1/change/ HTTP/1.1" 200 13269
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /orders HTTP/1.1" 200 1549
+"POST /orders HTTP/1.1" 200 1356
+"POST /orders HTTP/1.1" 200 1458
+"POST /orders HTTP/1.1" 200 1549
+"POST /orders HTTP/1.1" 200 1356
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\smartif.py", line 180, in translate_token
+    op = OPERATORS[token]
+         ~~~~~~~~~^^^^^^^
+KeyError: 'form.sort.value="week"'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 36, in orders
+    return render(request,'DZ2/orders.html',context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 960, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 893, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\smartif.py", line 171, in __init__
+    mapped_tokens.append(self.translate_token(token))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\smartif.py", line 182, in translate_token
+    return self.create_var(token)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 896, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 597, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 698, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '="week"' from 'form.sort.value="week"'
+"POST /orders HTTP/1.1" 500 216118
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\smartif.py", line 180, in translate_token
+    op = OPERATORS[token]
+         ~~~~~~~~~^^^^^^^
+KeyError: 'form.sort.value=="week"'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 36, in orders
+    return render(request,'DZ2/orders.html',context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 960, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 893, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\smartif.py", line 171, in __init__
+    mapped_tokens.append(self.translate_token(token))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\smartif.py", line 182, in translate_token
+    return self.create_var(token)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 896, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 597, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 698, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '=="week"' from 'form.sort.value=="week"'
+"POST /orders HTTP/1.1" 500 216126
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 36, in orders
+    return render(request,'DZ2/orders.html',context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 960, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\smartif.py", line 198, in parse
+    raise self.error_class(
+django.template.exceptions.TemplateSyntaxError: Unused ''week'' at end of if expression.
+"POST /orders HTTP/1.1" 500 186812
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\smartif.py", line 180, in translate_token
+    op = OPERATORS[token]
+         ~~~~~~~~~^^^^^^^
+KeyError: 'form.sort.value==week'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 36, in orders
+    return render(request,'DZ2/orders.html',context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 960, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 893, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\smartif.py", line 171, in __init__
+    mapped_tokens.append(self.translate_token(token))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\smartif.py", line 182, in translate_token
+    return self.create_var(token)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 896, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 597, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 698, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '==week' from 'form.sort.value==week'
+"POST /orders HTTP/1.1" 500 215786
+"POST /orders HTTP/1.1" 200 1356
+"POST /orders HTTP/1.1" 200 1370
+"POST /orders HTTP/1.1" 200 1472
+"POST /orders HTTP/1.1" 200 1370
+"POST /orders HTTP/1.1" 200 1363
+"POST /orders HTTP/1.1" 200 1363
+"POST /orders HTTP/1.1" 200 1356
+"POST /orders HTTP/1.1" 200 1458
+"POST /orders HTTP/1.1" 200 1349
+"POST /orders HTTP/1.1" 200 1451
+"POST /orders HTTP/1.1" 200 1349
+"POST /orders HTTP/1.1" 200 1542
+"POST /orders HTTP/1.1" 200 1451
+"POST /orders HTTP/1.1" 200 1349
+"POST /orders HTTP/1.1" 200 1451
+"POST /orders HTTP/1.1" 200 1542
+"POST /orders HTTP/1.1" 200 1349
+"POST /orders HTTP/1.1" 200 1451
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'radio'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 18, in orders
+    radio=request.POST['radio']
+          ~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'radio'
+"POST /orders HTTP/1.1" 500 81954
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'radio'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 18, in orders
+    radio=request.POST['radio']
+          ~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'radio'
+"POST /orders HTTP/1.1" 500 81954
+"POST /orders HTTP/1.1" 200 1558
+"POST /orders HTTP/1.1" 200 1558
+"GET /static/styles/style.css HTTP/1.1" 200 83
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2763
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'radio'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 18, in orders
+    radio=request.POST['radio']
+          ~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'radio'
+"POST /orders HTTP/1.1" 500 81954
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'radio'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 18, in orders
+    radio=request.POST['radio']
+          ~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'radio'
+"POST /orders HTTP/1.1" 500 81954
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'radio'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 18, in orders
+    radio=request.POST['radio']
+          ~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'radio'
+"POST /orders HTTP/1.1" 500 81954
+"POST /orders HTTP/1.1" 200 1558
+"POST /orders HTTP/1.1" 200 1467
+"POST /orders HTTP/1.1" 200 1365
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'radio'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 18, in orders
+    radio=request.POST['radio']
+          ~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'radio'
+"POST /orders HTTP/1.1" 500 81954
+"POST /orders HTTP/1.1" 200 1467
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'radio'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 18, in orders
+    radio=request.POST['radio']
+          ~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'radio'
+"POST /orders HTTP/1.1" 500 81954
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /orders HTTP/1.1" 200 1467
+"POST /orders HTTP/1.1" 200 1467
+"POST /orders HTTP/1.1" 200 1558
+"POST /orders HTTP/1.1" 200 1365
+"POST /orders HTTP/1.1" 200 1467
+"POST /orders HTTP/1.1" 200 1558
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader

@@ -26,7 +26,7 @@ class Userss(models.Model):
     address=models.TextField(blank=True,null=True, verbose_name="Адрес")
     slug=models.SlugField(max_length=200,blank=True,unique=True,verbose_name="URL")
     date_create=models.DateField(auto_now_add=True)
-
+    # date_create=models.DateField() 
     def __str__(self):
         return self.name
 
@@ -40,15 +40,15 @@ class Orders(models.Model):
     user=models.ForeignKey(to=Userss, verbose_name=("Пользователь"), on_delete=models.CASCADE)
     product=models.ForeignKey(to=Products, verbose_name=("Товар"), on_delete=models.CASCADE)
     price=models.DecimalField(default=0.00, max_digits=7, decimal_places=2,verbose_name="Сумма заказа")
-    date_create=models.DateField(auto_now_add=True)
-
+    # date_create=models.DateField(auto_now_add=True)
+    date_create=models.DateField() 
     def __str__(self):
-        return self.name
+        return str(self.id)
 
     class Meta:
-        db_table = "User"
-        verbose_name="Пользователь"
-        verbose_name_plural="Пользователи"
+        db_table = "Order"
+        verbose_name="Заказ"
+        verbose_name_plural="Заказы"
         ordering=("id",)
 
 
