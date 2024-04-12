@@ -8,7 +8,7 @@ class Products(models.Model):
     price=models.DecimalField(default=0.00, max_digits=7, decimal_places=2,verbose_name="Цена")
     quantity=models.PositiveIntegerField(default=0,verbose_name="Количество")
     date_create=models.DateField(auto_now_add=True)
-
+    
     def __str__(self):
         return self.name
 
@@ -26,6 +26,7 @@ class Userss(models.Model):
     address=models.TextField(blank=True,null=True, verbose_name="Адрес")
     slug=models.SlugField(max_length=200,blank=True,unique=True,verbose_name="URL")
     date_create=models.DateField(auto_now_add=True)
+    image=models.ImageField(upload_to="userss",blank=True,null=True, verbose_name="фото профиля")
     # date_create=models.DateField() 
     def __str__(self):
         return self.name

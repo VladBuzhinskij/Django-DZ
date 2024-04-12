@@ -2976,3 +2976,1216 @@ C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
 Watching for file changes with StatReloader
 C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/DZ2/orders/1/change/ HTTP/1.1" 200 13269
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2763
+"GET /admin/DZ2/userss/add/ HTTP/1.1" 200 11951
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/userss/add/ HTTP/1.1" 302 0
+"GET /admin/DZ2/userss/ HTTP/1.1" 200 9834
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/DZ2/userss/1/change/ HTTP/1.1" 200 12194
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/userss/1/change/ HTTP/1.1" 302 0
+"GET /admin/DZ2/userss/ HTTP/1.1" 200 9836
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\main\views.py", line 9, in index
+    return render(request,'main/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'userss' not found. 'userss' is not a valid view function or pattern name.
+"GET / HTTP/1.1" 500 139167
+index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\main\views.py", line 9, in index
+    return render(request,'main/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'userss' not found. 'userss' is not a valid view function or pattern name.
+"GET / HTTP/1.1" 500 139334
+index page accessed
+"GET / HTTP/1.1" 200 723
+"GET /static/styles/style.css HTTP/1.1" 304 0
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 32, in orders
+    "orders": orders
+              ^^^^^^
+UnboundLocalError: cannot access local variable 'orders' where it is not associated with a value
+"GET /orders? HTTP/1.1" 500 71668
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 30, in orders
+    orders=Orders.objects.filter(Q(user_id=user_id),Q(date_create__gte=month_ago)).select_related("product")
+                                                               ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'month_ago' where it is not associated with a value
+"GET /orders? HTTP/1.1" 500 72391
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 30, in orders
+    orders=Orders.objects.filter(Q(user_id=user_id),Q(date_create__gte=month_ago)).select_related("product")
+                                                               ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'month_ago' where it is not associated with a value
+"GET /orders? HTTP/1.1" 500 72391
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /orders? HTTP/1.1" 200 1642
+"GET /orders? HTTP/1.1" 200 1834
+"GET /admin/ HTTP/1.1" 200 10531
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /admin/ HTTP/1.1" 200 10531
+"GET /admin/auth/user/ HTTP/1.1" 200 11829
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /admin/DZ2/userss/ HTTP/1.1" 200 9623
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/userss/2/change/ HTTP/1.1" 200 12484
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/userss/2/change/ HTTP/1.1" 302 0
+"GET /admin/DZ2/userss/ HTTP/1.1" 200 9836
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/userss/1/change/ HTTP/1.1" 200 12492
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+index page accessed
+"GET / HTTP/1.1" 200 723
+"GET /orders? HTTP/1.1" 200 1834
+"GET /orders? HTTP/1.1" 200 1834
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 35, in orders
+    return render(request,'DZ2/profile.html',context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 198, in render
+    len_values = len(values)
+                 ^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 382, in __len__
+    self._fetch_all()
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1549, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 736, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 84, in pre_sql_setup
+    self.setup_query(with_col_aliases=with_col_aliases)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 73, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select(
+                                                            ^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 279, in get_select
+    related_klass_infos = self.get_related_selections(select, select_mask)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1367, in get_related_selections
+    raise FieldError(
+django.core.exceptions.FieldError: Invalid field name(s) given in select_related: 'userss'. Choices are: user, product
+"GET /orders? HTTP/1.1" 500 190757
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 35, in orders
+    return render(request,'DZ2/profile.html',context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 198, in render
+    len_values = len(values)
+                 ^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 382, in __len__
+    self._fetch_all()
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1549, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 736, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 84, in pre_sql_setup
+    self.setup_query(with_col_aliases=with_col_aliases)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 73, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select(
+                                                            ^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 279, in get_select
+    related_klass_infos = self.get_related_selections(select, select_mask)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1367, in get_related_selections
+    raise FieldError(
+django.core.exceptions.FieldError: Invalid field name(s) given in select_related: 'userss'. Choices are: user, product
+"GET /orders? HTTP/1.1" 500 190739
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 35, in orders
+    return render(request,'DZ2/profile.html',context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 198, in render
+    len_values = len(values)
+                 ^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 382, in __len__
+    self._fetch_all()
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1549, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 736, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 84, in pre_sql_setup
+    self.setup_query(with_col_aliases=with_col_aliases)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 73, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select(
+                                                            ^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 279, in get_select
+    related_klass_infos = self.get_related_selections(select, select_mask)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1367, in get_related_selections
+    raise FieldError(
+django.core.exceptions.FieldError: Invalid field name(s) given in select_related: 'userss'. Choices are: user, product
+"GET /orders? HTTP/1.1" 500 190602
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /orders? HTTP/1.1" 200 1834
+"GET /orders? HTTP/1.1" 200 1834
+"GET /static/styles/style.css HTTP/1.1" 200 83
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2933
+"GET /orders? HTTP/1.1" 200 1834
+"GET /orders? HTTP/1.1" 200 1834
+"GET /orders? HTTP/1.1" 200 1834
+"GET /orders? HTTP/1.1" 200 1834
+"GET /static/styles/style.css HTTP/1.1" 200 83
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2933
+Internal Server Error: /orders
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'else'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 35, in orders
+    return render(request,'DZ2/profile.html',context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\defaulttags.py", line 861, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 555, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 21: 'else', expected 'empty' or 'endfor'. Did you forget to register or load this tag?
+"GET /orders? HTTP/1.1" 500 194718
+"GET /orders? HTTP/1.1" 200 1834
+"GET /orders? HTTP/1.1" 200 1958
+Not Found: /media/userss/stol_1ZFNQM6.jpg
+"GET /media/userss/stol_1ZFNQM6.jpg HTTP/1.1" 404 2987
+"GET /orders? HTTP/1.1" 200 1958
+"GET /static/styles/style.css HTTP/1.1" 200 83
+Not Found: /media/userss/stol_1ZFNQM6.jpg
+"GET /media/userss/stol_1ZFNQM6.jpg HTTP/1.1" 404 2987
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2933
+"GET /admin/ HTTP/1.1" 200 10536
+"GET /admin/DZ2/userss/ HTTP/1.1" 200 9623
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/userss/2/change/ HTTP/1.1" 200 12500
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/userss/2/change/ HTTP/1.1" 302 0
+"GET /admin/DZ2/userss/ HTTP/1.1" 200 9836
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+index page accessed
+"GET / HTTP/1.1" 200 723
+"GET /orders? HTTP/1.1" 200 1958
+Not Found: /media/userss/stol_1ZFNQM6.jpg
+"GET /media/userss/stol_1ZFNQM6.jpg HTTP/1.1" 404 2987
+"GET /orders? HTTP/1.1" 200 1958
+"GET /static/styles/style.css HTTP/1.1" 200 83
+Not Found: /media/userss/stol_1ZFNQM6.jpg
+"GET /media/userss/stol_1ZFNQM6.jpg HTTP/1.1" 404 2987
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2933
+"GET /admin/ HTTP/1.1" 200 10551
+"GET /admin/DZ2/userss/ HTTP/1.1" 200 9623
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/userss/1/change/ HTTP/1.1" 200 12492
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/DZ2/userss/1/change/ HTTP/1.1" 302 0
+"GET /admin/DZ2/userss/ HTTP/1.1" 200 9836
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/DZ2/userss/1/change/ HTTP/1.1" 200 12480
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+index page accessed
+"GET / HTTP/1.1" 200 723
+"GET /orders? HTTP/1.1" 200 1934
+Not Found: /media/userss/stol2.jpeg
+"GET /media/userss/stol2.jpeg HTTP/1.1" 404 2969
+"GET /orders? HTTP/1.1" 200 1934
+"GET /static/styles/style.css HTTP/1.1" 200 83
+Not Found: /media/userss/stol2.jpeg
+"GET /media/userss/stol2.jpeg HTTP/1.1" 404 2969
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2933
+Not Found: /media/userss/stol2.jpeg
+"GET /media/userss/stol2.jpeg HTTP/1.1" 404 2969
+Not Found: /media/users/stol2.jpeg
+"GET /media/users/stol2.jpeg HTTP/1.1" 404 2966
+"GET /orders? HTTP/1.1" 200 2186
+Not Found: /media/userss/stol2.jpeg
+"GET /media/userss/stol2.jpeg HTTP/1.1" 404 2969
+"GET /orders? HTTP/1.1" 200 2186
+Not Found: /media/userss/stol2.jpeg
+"GET /media/userss/stol2.jpeg HTTP/1.1" 404 2969
+"GET /orders? HTTP/1.1" 200 2186
+Not Found: /media/userss/stol2.jpeg
+"GET /media/userss/stol2.jpeg HTTP/1.1" 404 2969
+"GET /orders? HTTP/1.1" 200 2186
+Not Found: /media/userss/stol2.jpeg
+"GET /media/userss/stol2.jpeg HTTP/1.1" 404 2969
+"GET /orders? HTTP/1.1" 200 2186
+Not Found: /media/userss/stol2.jpeg
+"GET /media/userss/stol2.jpeg HTTP/1.1" 404 2969
+"GET /orders? HTTP/1.1" 200 2198
+Not Found: /media/userss/stol2.jpeg
+"GET /media/userss/stol2.jpeg HTTP/1.1" 404 2969
+Not Found: /DZ/media/userss/stol2.jpeg
+"GET /DZ/media/userss/stol2.jpeg HTTP/1.1" 404 2978
+"GET /orders? HTTP/1.1" 200 2198
+Not Found: /DZ/media/userss/stol2.jpeg
+"GET /DZ/media/userss/stol2.jpeg HTTP/1.1" 404 2978
+Not Found: /media/userss/stol2.jpeg
+"GET /media/userss/stol2.jpeg HTTP/1.1" 404 2969
+"GET /orders? HTTP/1.1" 200 2234
+Not Found: /media/userss/stol2.jpeg
+"GET /media/userss/stol2.jpeg HTTP/1.1" 404 2969
+"GET /orders? HTTP/1.1" 200 2214
+Not Found: /media/userss/stol2.jpeg
+"GET /media/userss/stol2.jpeg HTTP/1.1" 404 2969
+Not Found: /DZ1/DZ/media/userss/stol2.jpeg
+"GET /DZ1/DZ/media/userss/stol2.jpeg HTTP/1.1" 404 2990
+"GET /orders? HTTP/1.1" 200 2214
+Not Found: /DZ1/DZ/media/userss/stol2.jpeg
+Not Found: /media/userss/stol2.jpeg
+"GET /DZ1/DZ/media/userss/stol2.jpeg HTTP/1.1" 404 2990
+"GET /media/userss/stol2.jpeg HTTP/1.1" 404 2969
+"GET /orders? HTTP/1.1" 200 2198
+Not Found: /media/userss/stol2.jpeg
+"GET /media/userss/stol2.jpeg HTTP/1.1" 404 2969
+Not Found: /DZ/media/userss/stol2.jpeg
+"GET /DZ/media/userss/stol2.jpeg HTTP/1.1" 404 2978
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /orders? HTTP/1.1" 200 2198
+Not Found: /DZ/media/userss/stol2.jpeg
+"GET /DZ/media/userss/stol2.jpeg HTTP/1.1" 404 3104
+"GET /media/userss/stol2.jpeg HTTP/1.1" 200 190248
+"GET /orders? HTTP/1.1" 200 2198
+Not Found: /DZ/media/userss/stol2.jpeg
+"GET /DZ/media/userss/stol2.jpeg HTTP/1.1" 404 3104
+"GET /orders? HTTP/1.1" 200 2002
+"GET /static/styles/style.css HTTP/1.1" 200 83
+"GET /media/userss/stol2.jpeg HTTP/1.1" 200 190248
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3059
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+index page accessed
+"GET /? HTTP/1.1" 200 723
+"GET /orders? HTTP/1.1" 200 1642
+"GET /orders? HTTP/1.1" 200 1642
+"GET /orders? HTTP/1.1" 200 1770
+Internal Server Error: /profile
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 48, in profile
+    return render(request, "index.html", {"form": form})
+                                                  ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /profile? HTTP/1.1" 500 71091
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /profile
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 48, in profile
+    return render(request, "index.html", {"form": form})
+                                                  ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+"GET /profile? HTTP/1.1" 500 71228
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /profile
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 52, in profile
+    return render(request, "index.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+"GET /profile? HTTP/1.1" 500 87253
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /profile
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 52, in profile
+    return render(request, "profile.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: profile.html
+"GET /profile? HTTP/1.1" 500 87297
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /profile
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 52, in profile
+    return render(request, "DZ2/profile.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 515, in parse
+    self.unclosed_block_tag(parse_until)
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\template\base.py", line 578, in unclosed_block_tag
+    raise self.error(token, msg)
+django.template.exceptions.TemplateSyntaxError: Unclosed tag on line 3: 'block'. Looking for one of: endblock.
+"GET /profile? HTTP/1.1" 500 172853
+"GET /profile? HTTP/1.1" 200 2156
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /profile
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 48, in profile
+    form=ProfileForm(instance=request.user)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'instance'
+"GET /profile? HTTP/1.1" 500 72106
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /profile
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 48, in profile
+    form=ProfileForm(instance=user)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'instance'
+"GET /profile? HTTP/1.1" 500 72074
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /profile? HTTP/1.1" 200 2169
+"GET /profile? HTTP/1.1" 200 2226
+Internal Server Error: /profile
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 40, in profile
+    if form.is_valid(data=request.POST):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseForm.is_valid() got an unexpected keyword argument 'data'
+"POST /profile HTTP/1.1" 500 73527
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /profile HTTP/1.1" 200 2213
+"POST /profile HTTP/1.1" 200 2213
+"POST /profile HTTP/1.1" 200 2213
+"POST /profile HTTP/1.1" 200 2213
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /profile
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 40, in profile
+    if form.is_valid(data=request.POST):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseForm.is_valid() got an unexpected keyword argument 'data'
+"POST /profile HTTP/1.1" 500 73513
+"GET /profile? HTTP/1.1" 200 2226
+Internal Server Error: /profile
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 40, in profile
+    if form.is_valid(data=request.POST):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseForm.is_valid() got an unexpected keyword argument 'data'
+"POST /profile HTTP/1.1" 500 73527
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /profile? HTTP/1.1" 200 2226
+"GET /profile? HTTP/1.1" 200 2226
+"GET /profile? HTTP/1.1" 200 2226
+"POST /profile HTTP/1.1" 200 2213
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /profile HTTP/1.1" 200 2213
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /profile HTTP/1.1" 200 2213
+"GET /profile? HTTP/1.1" 200 2226
+"POST /profile HTTP/1.1" 200 2213
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /profile HTTP/1.1" 200 2406
+"POST /profile HTTP/1.1" 200 2406
+"POST /profile HTTP/1.1" 200 2406
+"POST /profile HTTP/1.1" 200 2406
+"POST /profile HTTP/1.1" 200 2406
+"GET /profile? HTTP/1.1" 200 2226
+"POST /profile HTTP/1.1" 200 2406
+"GET /profile? HTTP/1.1" 200 2226
+"POST /profile HTTP/1.1" 200 2406
+"POST /profile HTTP/1.1" 200 2313
+"POST /profile HTTP/1.1" 200 2405
+"POST /profile HTTP/1.1" 200 2405
+"POST /profile HTTP/1.1" 200 2405
+"GET /static/styles/style.css HTTP/1.1" 200 83
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3059
+"GET /profile? HTTP/1.1" 200 2225
+"POST /profile HTTP/1.1" 200 2316
+"POST /profile HTTP/1.1" 200 2225
+"POST /profile HTTP/1.1" 200 2315
+"POST /profile HTTP/1.1" 200 2315
+"POST /profile HTTP/1.1" 200 2315
+"GET /profile? HTTP/1.1" 200 2224
+"POST /profile HTTP/1.1" 200 2315
+"POST /profile HTTP/1.1" 200 1962
+"POST /profile HTTP/1.1" 200 2020
+"POST /profile HTTP/1.1" 200 2020
+"GET /profile? HTTP/1.1" 200 2012
+"POST /profile HTTP/1.1" 200 2020
+"GET /profile? HTTP/1.1" 200 2012
+"POST /profile HTTP/1.1" 200 2020
+"POST /profile HTTP/1.1" 200 2307
+"POST /profile HTTP/1.1" 200 2307
+"GET /profile? HTTP/1.1" 200 2216
+"POST /profile HTTP/1.1" 200 2307
+"POST /profile HTTP/1.1" 200 2224
+"POST /profile HTTP/1.1" 200 2224
+"POST /profile HTTP/1.1" 200 1890
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Forbidden (CSRF token missing.): /profile
+"POST /profile HTTP/1.1" 403 2505
+Forbidden (CSRF token missing.): /profile
+"POST /profile HTTP/1.1" 403 2505
+"POST /profile HTTP/1.1" 200 2020
+"POST /profile HTTP/1.1" 200 2020
+"POST /profile HTTP/1.1" 200 2020
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /profile HTTP/1.1" 200 1962
+"POST /profile HTTP/1.1" 200 1963
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /profile HTTP/1.1" 200 1963
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /profile HTTP/1.1" 200 1972
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /profile HTTP/1.1" 200 1964
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\forms.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /profile HTTP/1.1" 200 1964
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /profile HTTP/1.1" 200 2085
+"POST /profile HTTP/1.1" 200 2085
+"GET /profile? HTTP/1.1" 200 2147
+"POST /profile HTTP/1.1" 200 2199
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /profile HTTP/1.1" 200 2199
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /profile HTTP/1.1" 200 2199
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /profile
+Traceback (most recent call last):
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py", line 40, in profile
+    form = ProfileForm(data=request.POST, instanse=user ,files=request.FILES)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseModelForm.__init__() got an unexpected keyword argument 'instanse'
+"POST /profile HTTP/1.1" 500 73588
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /profile HTTP/1.1" 200 2147
+"POST /profile HTTP/1.1" 200 2147
+"POST /profile HTTP/1.1" 200 2150
+"POST /profile HTTP/1.1" 200 2150
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /profile HTTP/1.1" 200 2150
+"GET /profile? HTTP/1.1" 200 2150
+"POST /profile HTTP/1.1" 200 2150
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vladi\Documents\study\Django DZ\DZ1\DZ\DZ2\views.py changed, reloading.
+Watching for file changes with StatReloader

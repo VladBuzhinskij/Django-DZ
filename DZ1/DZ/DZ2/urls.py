@@ -6,4 +6,5 @@ app_name="DZ2"
 urlpatterns = [
     path('',views.orders, name='order'),
     path('orders',views.orders, name='orders'),
+    path('profile',views.profile, name='profile'),
 ]

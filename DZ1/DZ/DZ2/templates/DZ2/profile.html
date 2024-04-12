@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+    <h1> Данные профиля</h1>
+    <form action="{% url 'DZ2:profile' %}" method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Сохранить</button>
+
+      
+    </form>
+    
+    {% endblock content %}
+        
+    
+        
